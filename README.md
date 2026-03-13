@@ -5,7 +5,7 @@ This is a Python-based Desktop Application for automated attendance using **Face
 
 ---
 
-## 📸 Features
+## Features
 
 •  Face Detection using OpenCV  
 •  Face Recognition using LBPH algorithm  
